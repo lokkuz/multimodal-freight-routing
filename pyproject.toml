@@ -1,0 +1,12 @@
+[project]
+name = "multimodal-freight-routing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "geopandas>=1.1.1",
+    "matplotlib>=3.10.7",
+    "networkx>=3.6",
+    "requests>=2.32.5",
+]
